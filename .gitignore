@@ -1,0 +1,12 @@
+**/cmake-build-debug/
+**/.idea
+**/.cmake
+**/.cbp
+**/.DS_Store
+**/CMakeLists.txt
+/cmake-build-debug/
+.idea
+.cmake
+.cbp
+.DS_Store
+CMakeLists.txt
